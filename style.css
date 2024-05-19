@@ -159,13 +159,6 @@ nav button {
     width: 555px;
 }
 
-/* .secImg video {
-    position: absolute;
-    top: 56px;
-    right: 37px;
-    width: 362px;
-} */
-
 section.first>div {
     display: flex;
     flex-direction: column;
@@ -173,16 +166,12 @@ section.first>div {
 }
 
 section.first>div :nth-child(1) {
-    /* font-size: 46px; */
     font-size: 28px;
     font-weight: bolder;
-    /* font-size: 48px; */
-    /* font-weight: bolder; */
 }
 
 .first>div :nth-child(2) {
     font-size: 24;
-    /* font-weight: bolder; */
 }
 
 .faq h2 {
